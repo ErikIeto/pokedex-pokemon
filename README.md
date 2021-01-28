@@ -3,7 +3,7 @@
 Developing a Pokedex
 
 <h1 align="center">
-    <img alt="Pokemon" title="Pokemon" src="../github/pokemon-logo.png" width="30%" />
+    <img alt="Pokemon" title="Pokemon" src="./github/pokemon-logo.png" width="30%" />
 </h1>
 
 <p align="center">
@@ -32,11 +32,11 @@ Desenvolvendo uma pokedex com Javascript, HTML5 e CSS3.
 ## Layout
 
 <p align="center">
-  <img alt="pokemon" src="../github/pokemon-background.jpg" width="100%">
+  <img alt="pokemon" src="./github/pokemon-background.jpg" width="100%">
 </p>
 <br>
 <p align="center">
-  <img alt="pokemon-desktop" src="src/assets/images/desktop.png" width="100%">
+  <img alt="pokemon-desktop" src="./github/desktop.jpg" width="100%">
 </p>
 <br>
 
