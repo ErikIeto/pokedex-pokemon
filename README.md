@@ -38,7 +38,7 @@ Desenvolvendo uma pokedex com Javascript, HTML5 e CSS3.
 <br>
 <br>
 <p align="center">
-  <img alt="pokemon-desktop" src="./github/desktop.jpg" width="100%">
+  <img alt="pokemon-desktop" src="./github/desktop.png" width="80%">
 </p>
 <br>
 
